@@ -1,0 +1,13 @@
+{
+  "name": "HTML",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "less": "del index.css && Lessc index.less >> index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
